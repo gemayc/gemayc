@@ -13,7 +13,9 @@
 
 ## 🚀 Sobre Mí
 
-Desarrolladora versátil con experiencia en **desarrollo full stack**, **machine learning**, y arquitecturas **backend escalables**. Me apasiona crear soluciones tecnológicas completas, desde interfaces de usuario intuitivas hasta sistemas de inteligencia artificial.
+Desarrolladora versátil con experiencia en **desarrollo full stack** y actualmente especializándome en **Machine Learning e Inteligencia Artificial**. Me apasiona crear soluciones tecnológicas completas, desde interfaces de usuario intuitivas hasta sistemas de inteligencia artificial y modelos predictivos.
+
+Actualmente cursando Bootcamp de IA, trabajando con **regresión logística multiclase** y preparándome para profundizar en **aprendizaje no supervisado** y **deep learning**.
 
 ```typescript
 const gema = {
@@ -24,10 +26,12 @@ const gema = {
         databases: ["MySQL", "PostgreSQL"],
         devOps: ["Docker", "Docker Compose", "CI/CD"],
         testing: ["Jest", "Supertest"],
-        ai_ml: ["TensorFlow", "Scikit-learn", "Pandas", "NumPy"]
+        ai_ml: ["Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+        learning: ["Logistic Regression", "Multiclass Classification", "Deep Learning"]
     },
-    currentFocus: "Building scalable applications & exploring AI/ML",
-    funFact: "Puedo debuggear en 4 lenguajes mientras tomo café ☕"
+    currentFocus: "Machine Learning & AI Bootcamp",
+    nextSteps: ["Unsupervised Learning", "Deep Learning", "Neural Networks"],
+    funFact: "Puedo debuggear en 4 lenguajes mientras entreno modelos de ML ☕"
 };
 ```
 
@@ -170,19 +174,61 @@ Aplicación completa con arquitectura cliente-servidor moderna
 
 ## 🌱 Actualmente
 
-- 🔭 Trabajando en proyectos full stack con TypeScript y React
-- 🌱 Profundizando en Machine Learning y AI
-- 👯 Buscando colaborar en proyectos open source
-- 💬 Pregúntame sobre: **Node.js, React, TypeScript, Python, ML**
+- 🎓 **Bootcamp Inteligencia Artificial** - Activamente desarrollando habilidades en IA
+- 🔬 Trabajando en **Regresión Logística Multiclase** - Modelos de clasificación avanzados
+- 📚 Próximamente: **Aprendizaje No Supervisado** (Clustering, PCA, Anomaly Detection)
+- 🧠 En camino: **Deep Learning** (Redes Neuronales, CNN, RNN, Transfer Learning)
+- 💻 Aplicando Full Stack Development en proyectos personales
+- 👯 Buscando colaborar en proyectos open source de ML/AI
+- 💬 Pregúntame sobre: **Node.js, React, TypeScript, Python, ML, Regresión**
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/gema-y%C3%A9benes-caballero-83b6a6100/)
 
 ---
 
-## 🎓 Formación
+## 🎓 Formación & Trayectoria de Aprendizaje
 
-- 🎯 **Bootcamp Full Stack Developer** - Factoría F5
-- 🤖 **Bootcamp Inteligencia Artificial** - Programa intensivo de ML/AI
-- 💻 **Desarrollo de Software** - Metodologías ágiles y trabajo en equipo
+### 📚 Actualmente
+- 🤖 **Bootcamp Inteligencia Artificial** (En curso)
+  - ✅ Regresión y análisis predictivo
+  - 🔄 **Regresión Logística Multiclase** (Clasificación avanzada)
+  - 📋 Próximamente: Aprendizaje No Supervisado (Clustering, PCA, K-means)
+  - 📋 Próximamente: Deep Learning (Redes Neuronales, CNN, RNN)
+
+### 🎯 Completado
+- 💻 **Bootcamp Full Stack Developer** - Factoría F5
+  - TypeScript, Node.js, React, Testing, DevOps
+- 🔧 **Desarrollo de Software** 
+  - Metodologías ágiles y trabajo en equipo
+  - Git Flow, CI/CD, Clean Code
+
+### 🚀 Próximos Objetivos
+- 🧠 Dominar Deep Learning y Redes Neuronales
+- 🎯 Transfer Learning y modelos pre-entrenados
+- ☁️ MLOps y despliegue de modelos en producción
+
+---
+
+## 🗺️ Mi Roadmap en ML/AI
+
+```mermaid
+graph LR
+    A[✅ Fundamentos ML] --> B[✅ Regresión]
+    B --> C[🔄 Regresión Logística Multiclase]
+    C --> D[📋 Aprendizaje No Supervisado]
+    D --> E[📋 Deep Learning]
+    E --> F[🎯 Redes Neuronales]
+    F --> G[🎯 CNN & RNN]
+    
+    style A fill:#90EE90
+    style B fill:#90EE90
+    style C fill:#FFD700
+    style D fill:#87CEEB
+    style E fill:#87CEEB
+    style F fill:#DDA0DD
+    style G fill:#DDA0DD
+```
+
+**Leyenda**: ✅ Completado | 🔄 En Progreso | 📋 Próximo | 🎯 Objetivo Futuro
 
 ---
 
