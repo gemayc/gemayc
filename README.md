@@ -16,7 +16,23 @@
 Desarrolladora versátil con experiencia en **desarrollo full stack** y actualmente especializándome en **Machine Learning e Inteligencia Artificial**. Me apasiona crear soluciones tecnológicas completas, desde interfaces de usuario intuitivas hasta sistemas de inteligencia artificial y modelos predictivos.
 
 Actualmente cursando Bootcamp de IA, trabajando con **regresión logística multiclase** y preparándome para profundizar en **aprendizaje no supervisado** y **deep learning**.
-<pre> ```javascript const gema = { code: ["TypeScript", "JavaScript", "Python"], technologies: { frontend: ["React", "HTML5", "CSS3", "Tailwind"], backend: ["Node.js", "Express", "Sequelize"], databases: ["MySQL", "PostgreSQL"], devOps: ["Docker", "Docker Compose", "CI/CD"], testing: ["Jest", "Supertest"], ai_ml: ["Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn"], learning: ["Logistic Regression", "Multiclass Classification", "Deep Learning"] }, currentFocus: "Machine Learning & AI Bootcamp", nextSteps: ["Unsupervised Learning", "Deep Learning", "Neural Networks"], funFact: "Puedo debuggear en 4 lenguajes mientras entreno modelos de ML 🚀" }; ``` </pre>
+
+```typescript
+const gema = {
+    code: ["TypeScript", "JavaScript", "Python"],
+    technologies: {
+        frontend: ["React", "HTML5", "CSS3", "Tailwind"],
+        backend: ["Node.js", "Express", "Sequelize"],
+        databases: ["MySQL", "PostgreSQL"],
+        devOps: ["Docker", "Docker Compose", "CI/CD"],
+        testing: ["Jest", "Supertest"],
+        ai_ml: ["Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+        learning: ["Logistic Regression", "Multiclass Classification", "Deep Learning"]
+    },
+    currentFocus: "Machine Learning & AI Bootcamp",
+    nextSteps: ["Unsupervised Learning", "Deep Learning", "Neural Networks"],
+    funFact: "Puedo debuggear en 4 lenguajes mientras entreno modelos de ML ☕"
+};
 ```
 
 ---
